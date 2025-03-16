@@ -125,6 +125,19 @@ Together, we can make the world a better place, one choice at a time. Join us in
 Introducing the minds behind ECo-nnect's mission for a sustainable future!
 
 
+**<p align="center">Aastika Banstola</p>**
+   <p align="center">
+     <img src="AastikaHeadshot.png" alt="Aastika Banstola's Picture" width="250">
+   </p>
+   <p align="center">
+     <a href="https://www.linkedin.com/in/aastika-/">
+       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+     </a>
+     <a href="https://github.com/aastikab">
+       <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub">
+     </a>
+   </p>
+   
 **<p align="center">Ahamad Mamun Nishar Miya</p>**
    <p align="center">
      <img src="NisharHeadshot.png" alt="Ahamad Mamun Nishar Miya's Picture" width="250">
@@ -138,18 +151,7 @@ Introducing the minds behind ECo-nnect's mission for a sustainable future!
      </a>
    </p>
 
-**<p align="center">Aastika Banstola</p>**
-   <p align="center">
-     <img src="AastikaHeadshot.png" alt="Aastika Banstola's Picture" width="250">
-   </p>
-   <p align="center">
-     <a href="https://www.linkedin.com/in/aastika-/">
-       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
-     </a>
-     <a href="https://github.com/aastikab">
-       <img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github" alt="GitHub">
-     </a>
-   </p>
+
 
 <div align="center">
 
