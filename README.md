@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="https://devpost.com/software/eco-nnect-zj1bea"><img src="https://img.shields.io/badge/🏆_WINNER-1st_Place_College_·_Nature_Hacks_2024-F5B700?style=for-the-badge" alt="Winner: 1st Place College, Nature Hacks 2024" /></a>
+</p>
+
+<p align="center">
+  <a href="https://devpost.com/software/eco-nnect-zj1bea"><img src="naturehacks-winner.png" width="360" alt="Devpost: Nature Hacks, Winner, 1st - College" /></a><br>
+  <sub>Verified on <a href="https://devpost.com/software/eco-nnect-zj1bea">Devpost</a> · <a href="https://www.youtube.com/watch?v=ys1V541Jepo">▶️ Watch the demo</a></sub>
+</p>
 # ECo-nnect
 
 ECo-nnect is a web app designed to make sustainability simple, accessible, and impactful. Inspired by the idea that small, conscious actions, when multiplied by millions, can transform the future of our planet, ECo-nnect helps users make eco-friendly choices that benefit both themselves and the environment.
